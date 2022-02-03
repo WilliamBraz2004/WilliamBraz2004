@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm William Braz👋</h1>
 <h3 align="center">Amateur Developer.</h3>
 
-- :seedling:I'm Currently Learning: **HTML, CSS, Dart and Java**
+- :seedling:I'm Currently Learning: **HTML, CSS, Dart, Java and Kotlin**
 - :love_letter:How Can You Contact: **willbrancocamposbraz@gmail.com**
 
 ## 🚀 Skills

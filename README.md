@@ -18,8 +18,8 @@
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="100" height="100"/>
   
-  https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fpng-anime-gifs&psig=AOvVaw2RBdiKzS_M7CJG_rMVtTbC&ust=1644020743144000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCLxNfk5PUCFQAAAAAdAAAAABAD
-
-
+<img align="left" alt="gif" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fpng-anime-gifs&psig=AOvVaw2RBdiKzS_M7CJG_rMVtTbC&ust=1644020743144000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCLxNfk5PUCFQAAAAAdAAAAABAD"
+  
+ 
 
 

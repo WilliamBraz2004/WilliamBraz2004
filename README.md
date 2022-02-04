@@ -1,10 +1,10 @@
 <h1 align="center">Hey, I'm William Braz👋</h1>
 <h3 align="center">Amateur Developer.</h3>
 
-- :seedling:I'm Currently Learning: **HTML, CSS, Dart, Java and Kotlin**
+- :seedling:A language doesn't make your code good, good programmers make your code good.**
 - :love_letter:How Can You Contact: **willbrancocamposbraz@gmail.com**
 
-## 🚀 Languages and Tools:
+## 🚀 Learned Languages:
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
   

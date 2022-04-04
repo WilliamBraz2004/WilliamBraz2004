@@ -21,7 +21,7 @@
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="100" height="100"/>
   
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Fpt%2Ficone%2Farquivo-tipo-php%2F130266&psig=AOvVaw1qF2K8Pv1CPZPRW6xNIdmE&ust=1649196904876000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCJiw7Ly3-_YCFQAAAAAdAAAAABA3" alt="php" width="100" height="100"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fphp&psig=AOvVaw362rDfHtNrtoAYnND3NAwk&ust=1649197170932000&source=images&cd=vfe&ved=0CAcQjRxqFwoTCLCn0_y3-_YCFQAAAAAdAAAAABAG" alt="php" width="100" height="100"/>
 
 
   

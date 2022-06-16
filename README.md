@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm William Braz👋</h1>
 <h3 align="center">junior developer.</h3>
 
-<img align="right" alt="gif" src="https://c.tenor.com/DLWGvDkhhyMAAAAi/gray-hair-big-eyes.gif" width="200" height="200">
+<img align="right" alt="gif" src="https://media3.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e473djnwj6hqoltujalfx3580ne3gl3sfwfmlcenbha&rid=giphy.gif&ct=g" width="" height="">
 
 - 🧑 My name is William Branco Campos Braz, and I'm 18 years old.
 - 🎓 I am currently in the second semester of Computer Science at Cesuca University Center.

@@ -5,7 +5,7 @@
 
 - 🧑 My name is William Branco Campos Braz, and I'm 18 years old.
 - 🎓 I am currently in the second semester of Computer Science at Cesuca University Center.
-- 📚 I am graduated in Computer Technician from QI Colleges and Technical School.
+- 📚 I am graduated in Computer Technician from QI Faculdade & Escola Técnica.
 - 📜 I have other small courses such as ULBRA, DIO, Fundação Bradesco and Lúmina.
 - 📺 In my free time, I like to watch movies, series, anime, listen to music and play video games.
 
